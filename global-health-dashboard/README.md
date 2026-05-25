@@ -43,3 +43,5 @@ Analyse relationships between life expectancy, BMI, cholesterol levels and popul
 ## Tableau Public
 
 https://public.tableau.com/app/profile/gabriela.lins/vizzes
+
+![Global Health Dashboard](./dashboard-overview.png)
