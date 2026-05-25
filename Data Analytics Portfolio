@@ -1,26 +1,48 @@
-# Data Analytics Portfolio
+x# Gabriela Lins
 
-Hi, I'm Gabriela 👋
+Junior Data Analyst | Marketing Analytics | Data Visualisation
 
-I'm transitioning into Data Analytics with a background in Fashion Branding, Digital Marketing and Content Creation.
+Background in Fashion Branding, Digital Marketing and Content Creation.
 
-Currently learning and building projects in:
+## Tools
 
-📊 Power BI & Tableau  
-🐍 Python  
+📊 Tableau  
+📈 Power BI  
 🗄 SQL  
-📈 Data Visualisation & Reporting  
+🐍 Python  
+📉 Excel  
 
-## Projects
+## Featured Projects
 
 ### Global Health Dashboard
-Tableau dashboard exploring life expectancy, BMI, cholesterol and population trends across regions.
+Tools: Tableau
 
-### Spotify Music Analysis Dashboard
-Analysis of music trends including popularity, tempo and energy by genre.
+Analysed life expectancy, BMI, cholesterol and population trends across regions.
 
-### Industry Analysis Dashboard
-Visual exploration of industry trends and comparisons.
+Skills:
+- Data visualisation
+- KPI analysis
+- Dashboard design
+
+---
+
+### SQL Northwind Business Analysis
+Tools: SQL + MySQL
+
+Business questions solved:
+
+- Top selling products
+- Customer locations
+- Revenue analysis
+- JOIN operations
+- Aggregations
+
+---
+
+### Spotify Music Dashboard
+Tools: Tableau
+
+Exploration of popularity, energy, tempo and genre patterns.
 
 ## Links
 
