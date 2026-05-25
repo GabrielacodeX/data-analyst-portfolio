@@ -1,8 +1,10 @@
 # Gabriela Lins
 
-Junior Data Analyst | Marketing Analytics | Data Visualisation
+Junior Data Analyst | Marketing Analytics | SQL | Tableau | Data Visualisation
 
-Background in Fashion Branding, Digital Marketing and Content Creation.
+Background in Fashion Branding, Digital Marketing and Content Creation with experience across analytics, reporting and visual storytelling.
+
+---
 
 ## Tools
 
@@ -11,40 +13,83 @@ Background in Fashion Branding, Digital Marketing and Content Creation.
 🗄 SQL  
 🐍 Python  
 📉 Excel  
+📋 MySQL Workbench  
+📑 Google Analytics  
+
+---
 
 ## Featured Projects
 
 ### Global Health Dashboard
-Tools: Tableau
+
+**Tools:** Tableau
 
 Analysed life expectancy, BMI, cholesterol and population trends across regions.
 
-Skills:
+**Skills demonstrated:**
 - Data visualisation
 - KPI analysis
 - Dashboard design
+- Trend analysis
 
 ---
 
-### SQL Northwind Business Analysis
-Tools: SQL + MySQL
+### SQL Northwind Analysis
 
-Business questions solved:
+**Tools:** SQL | MySQL Workbench | GitHub
 
-- Top selling products
-- Customer locations
-- Revenue analysis
+Business analysis project using the Northwind database.
+
+**Business questions explored:**
+- Which customers placed orders?
+- Customer locations analysis
+- Product exploration
 - JOIN operations
-- Aggregations
+
+**Skills demonstrated:**
+- SELECT statements
+- INNER JOIN
+- Data retrieval
+- Relational databases
+- SQL documentation
+
+**Repository:**  
+https://github.com/GabrielacodeX/sql-northwind-analysis
 
 ---
 
 ### Spotify Music Dashboard
-Tools: Tableau
+
+**Tools:** Tableau
 
 Exploration of popularity, energy, tempo and genre patterns.
 
+**Skills demonstrated:**
+- Dashboard design
+- Data storytelling
+- Visual analytics
+- KPI tracking
+
+---
+
+## Portfolio Roadmap
+
+Upcoming projects:
+
+📊 Excel analysis projects  
+🐍 Python data projects  
+📈 Tableau dashboards  
+🗄 SQL business analysis projects  
+
+---
+
 ## Links
 
-🔗 Tableau Public: [https://public.tableau.com/app/profile/gabriela.lins/vizzes]  
-🔗 LinkedIn: [www.linkedin.com/in/linsgabriela]
+🔗 Tableau Public:  
+https://public.tableau.com/app/profile/gabriela.lins/vizzes
+
+🔗 LinkedIn:  
+https://www.linkedin.com/in/linsgabriela
+
+🔗 GitHub:  
+https://github.com/GabrielacodeX
